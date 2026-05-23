@@ -4,20 +4,18 @@
     "slug": "cafe-bar-luspar",
     "tagline": "Un clásico del barrio madrileño.",
     "category": "cafe",
-    "foundedYear": null,
     "cuisine": "Café y tapas"
   },
   "contact": {
     "phone": "+34 914 01 49 40",
-    "email": null,
     "address": "Calle Don Ramón de la Cruz, 81",
     "city": "Madrid",
     "postalCode": "28006",
     "country": "España",
     "googleMapsUrl": "https://maps.app.goo.gl/Ca7ddV9bfsNx9FWS8",
-    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.8!2d-3.69!3d40.44!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422c5b86e5e5e5:0x0!2z!5e0!3m2!1ses!2ses",
-    "latitude": 40.44,
-    "longitude": -3.69
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.5!2d-3.6764!3d40.4386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422f72a3c5c5c5%3A0x0!2sCalle+Don+Ram%C3%B3n+de+la+Cruz%2C+81%2C+28006+Madrid!5e0!3m2!1ses!2ses!4v1700000000000",
+    "latitude": 40.4386,
+    "longitude": -3.6764
   },
   "hours": [
     { "day": "Mon", "open": "07:30", "close": "22:00" },
@@ -28,11 +26,7 @@
     { "day": "Sat", "open": "08:00", "close": "22:00" },
     { "day": "Sun", "open": "08:00", "close": "22:00" }
   ],
-  "socials": {
-    "instagram": null,
-    "facebook": null,
-    "whatsapp": null
-  },
+  "socials": {},
   "tone": { "keywords": ["clásico", "barrio", "tradicional", "café", "acogedor"], "language": "es" },
   "palette": {
     "bg": "20 20% 7%",
@@ -61,7 +55,7 @@
     "headline": "Un clásico madrileño",
     "headlineAccent": "desde el amanecer",
     "subheadline": "Café, tapas y cerveza en un bar de barrio con décadas de historia. El lugar perfecto para empezar el día o descansar a media tarde.",
-    "ctaLabel": "Llamar",
+    "ctaLabel": "Llamar ahora",
     "ctaHref": "tel:+34914014940",
     "secondaryCtaLabel": "Ver ubicación",
     "secondaryCtaHref": "#contacto",
@@ -71,9 +65,7 @@
     "eyebrow": "Quiénes somos",
     "title": "Un rincón tranquilo en el corazón del barrio.",
     "body": "Cafe Bar Luspar es un lugar de tradición en la zona de Don Ramón de la Cruz. Desde sus primeras horas de la mañana, abrimos las puertas para recibir a los vecinos que buscan un buen café, unas tapas para compartir y la tranquilidad de un bar de barrio. Cerveza fresca, productos de calidad y un ambiente acogedor que ha permanecido intacto a lo largo de los años.",
-    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348?q=80&w=1200&auto=format&fit=crop",
-    "chefName": null,
-    "chefRole": null,
+    "image": "https://images.unsplash.com/photo-1442512595331-e89e5519cac7?q=80&w=1200&auto=format&fit=crop",
     "stats": [
       { "value": "122", "label": "reseñas de clientes", "sub": "en RestaurantGuru" },
       { "value": "07:30", "label": "abierto desde la mañana", "sub": "todos los días" },
@@ -125,34 +117,31 @@
     ]
   },
   "reservas": {
-    "enabled": false,
-    "eyebrow": null,
-    "title": null,
-    "body": null,
-    "phone": null,
-    "whatsapp": null,
-    "note": null,
-    "image": null
-  },
-  "contacto": {
-    "eyebrow": "Dónde estamos",
-    "title": "En el corazón del barrio.",
-    "body": "Nos encontrarás en Calle Don Ramón de la Cruz, una zona tranquila de Madrid con mucho carácter. Desde las primeras horas de la mañana estamos aquí para recibirte."
+    "enabled": false
   },
   "features": [
-    { "label": "Café desde las 07:30" },
-    { "label": "Tapas de calidad" },
-    { "label": "Cerveza fresca" },
-    { "label": "Ambiente de barrio" }
+    { "icon": "coffee", "label": "Café desde las 07:30" },
+    { "icon": "utensils", "label": "Tapas de calidad" },
+    { "icon": "beer", "label": "Cerveza fresca" },
+    { "icon": "home", "label": "Ambiente de barrio" }
   ],
   "gallery": [
     "https://images.unsplash.com/photo-1511920170033-f8396924c348?q=80&w=900&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1447521458279-0714c4a4d397?q=80&w=900&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1509785307050-d4066910ec1e?q=80&w=900&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1445521438279-0714c4a4d397?q=80&w=900&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1511632765486-a01980e01a18?q=80&w=900&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1442512595331-e89e5519cac7?q=80&w=900&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1521017914931-fce94d9a2e1b?q=80&w=900&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1462985396006-3212a9b96e7f?q=80&w=900&auto=format&fit=crop"
-  ]
+    "https://images.unsplash.com/photo-1462985396006-3212a9b96e7f?q=80&w=900&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=900&auto=format&fit=crop"
+  ],
+  "contacto": {
+    "eyebrow": "Dónde estamos",
+    "title": "En el corazón del barrio.",
+    "body": "Nos encontrarás en Calle Don Ramón de la Cruz, una zona tranquila de Madrid con mucho carácter. Desde las primeras horas de la mañana estamos aquí para recibirte."
+  },
+  "seo": {
+    "title": "Cafe Bar Luspar — Café y tapas en Madrid",
+    "description": "Bar de barrio en Calle Don Ramón de la Cruz, Madrid. Café desde las 07:30, tapas tradicionales y cerveza fresca. Un clásico del barrio."
+  }
 }
