@@ -1,0 +1,21 @@
+/* Dark warm restaurant palette — overridden at runtime by customer.json.palette in main.tsx */
+:root {
+  --bg: 20 20% 7%;
+  --fg: 36 50% 92%;
+  --primary: 38 80% 58%;
+  --primary-foreground: 20 20% 7%;
+  --accent: 15 62% 46%;
+  --accent-foreground: 36 50% 92%;
+  --muted: 20 15% 14%;
+  --muted-foreground: 36 22% 60%;
+  --card: 20 18% 11%;
+  --card-foreground: 36 50% 92%;
+  --border: 20 15% 20%;
+  --input: 20 15% 18%;
+  --ring: 38 80% 58%;
+  --radius: 0.75rem;
+
+  --font-display: "Playfair Display", "Georgia", serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+  --font-script: "Cormorant Garamond", "Georgia", serif;
+}

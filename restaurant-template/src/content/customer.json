@@ -1,0 +1,162 @@
+{
+  "business": {
+    "name": "Sabor & Candela",
+    "slug": "sabor-y-candela",
+    "tagline": "Cocina de mercado. Fuego de verdad.",
+    "category": "restaurant",
+    "foundedYear": 2018,
+    "cuisine": "Cocina española de temporada"
+  },
+  "contact": {
+    "phone": "+34 914 56 78 90",
+    "email": "hola@saborycanela.es",
+    "address": "Calle Ponzano, 47",
+    "city": "Madrid",
+    "postalCode": "28003",
+    "country": "España",
+    "googleMapsUrl": "https://maps.google.com/?q=Calle+Ponzano+47+Madrid",
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.2!2d-3.698!3d40.433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI2JzAwLjAiTiAzwrA0MScyOC44Ilc!5e0!3m2!1ses!2ses!4v1700000000000",
+    "latitude": 40.433,
+    "longitude": -3.698
+  },
+  "hours": [
+    { "day": "Mon", "closed": true },
+    { "day": "Tue", "open": "13:30", "close": "16:00", "note": "Solo mediodía" },
+    { "day": "Wed", "open": "13:30", "close": "16:00" },
+    { "day": "Thu", "open": "13:30", "close": "16:00" },
+    { "day": "Fri", "open": "13:30", "close": "23:30" },
+    { "day": "Sat", "open": "13:00", "close": "23:30" },
+    { "day": "Sun", "open": "13:00", "close": "17:00", "note": "Solo mediodía" }
+  ],
+  "socials": {
+    "instagram": "https://instagram.com/saborycanela",
+    "facebook": "https://facebook.com/saborycanela",
+    "whatsapp": "https://wa.me/34914567890"
+  },
+  "tone": { "keywords": ["cálido", "honesto", "artesano", "fuego", "mercado", "temporada"], "language": "es" },
+  "palette": {
+    "bg": "20 20% 7%",
+    "fg": "36 50% 92%",
+    "primary": "38 80% 58%",
+    "primaryForeground": "20 20% 7%",
+    "accent": "15 62% 46%",
+    "accentForeground": "36 50% 92%",
+    "muted": "20 15% 14%",
+    "mutedForeground": "36 22% 60%",
+    "card": "20 18% 11%",
+    "cardForeground": "36 50% 92%",
+    "border": "20 15% 20%",
+    "radius": "0.75rem"
+  },
+  "marquee": [
+    "Abierto desde el mediodía",
+    "Cocina de mercado",
+    "Vinos naturales",
+    "Terraza interior",
+    "Producto de temporada",
+    "Sin reservas para la barra"
+  ],
+  "hero": {
+    "eyebrow": "Madrid · Ponzano",
+    "headline": "La cocina que huele a casa",
+    "headlineAccent": "de verdad",
+    "subheadline": "Guisos lentos, brasas vivas y producto de mercado. Una mesa donde el tiempo sabe diferente.",
+    "ctaLabel": "Reservar mesa",
+    "ctaHref": "#reservas",
+    "secondaryCtaLabel": "Ver la carta",
+    "secondaryCtaHref": "#carta",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=2000&auto=format&fit=crop"
+  },
+  "about": {
+    "eyebrow": "Quiénes somos",
+    "title": "Empezamos con una brasa y ganas de hacer algo honesto.",
+    "body": "Sabor & Candela nació en 2018 en un local pequeño de Ponzano con una idea sencilla: cocinar bien. Sin artificios. Con el producto que llega del mercado cada mañana, con fuego de verdad y con el tiempo que cada plato necesita. Hoy somos el mismo sitio de siempre, pero con más mesas y los mismos valores.",
+    "image": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?q=80&w=1200&auto=format&fit=crop",
+    "chefName": "Marcos Herrera",
+    "chefRole": "Chef & fundador",
+    "stats": [
+      { "value": "7", "label": "años cocinando", "sub": "desde 2018" },
+      { "value": "40", "label": "comensales", "sub": "cada servicio" },
+      { "value": "100%", "label": "producto fresco", "sub": "mercado diario" },
+      { "value": "850+", "label": "reseñas Google", "sub": "★ 4.8 / 5" }
+    ]
+  },
+  "carta": {
+    "eyebrow": "La carta",
+    "title": "Lo que hay hoy en la cocina.",
+    "intro": "La carta cambia con la temporada y lo que trae el mercado. Pregúntanos por el fuera de carta.",
+    "categories": [
+      {
+        "name": "Para empezar",
+        "description": "Bocados de bienvenida y para compartir",
+        "dishes": [
+          { "name": "Pan de hogaza con tomate y aceite", "description": "Masa madre, tomate de temporada, AOVE Picual", "price": "4,50 €" },
+          { "name": "Croquetas de jamón ibérico", "description": "Bechamel de leche fresca, jamón de bellota", "price": "9,00 €", "tag": "signature" },
+          { "name": "Berberechos al vapor", "description": "Con mantequilla tostada y perejil", "price": "14,00 €" },
+          { "name": "Salmorejo cordobés", "description": "Huevo duro, virutas de jamón, AOVE", "price": "8,50 €", "tag": "temporada" }
+        ]
+      },
+      {
+        "name": "Del mar",
+        "description": "Pescados y mariscos de lonja",
+        "dishes": [
+          { "name": "Gambas a la plancha", "description": "Con sal en escamas y limón", "price": "18,00 €" },
+          { "name": "Bacalao confitado", "description": "Pil-pil ligero, pimientos del piquillo asados", "price": "22,00 €", "tag": "signature" },
+          { "name": "Lubina a la sal", "description": "Para dos personas, 500g, con patatas y verduras", "price": "38,00 €" }
+        ]
+      },
+      {
+        "name": "De la tierra",
+        "description": "Carnes y guisos de temporada",
+        "dishes": [
+          { "name": "Carrillera ibérica guisada", "description": "12 horas de cocción, puré de patata trufado", "price": "24,00 €", "tag": "signature" },
+          { "name": "Chuletón de rubia gallega", "description": "Maduración 45 días, 600g, para dos", "price": "52,00 €" },
+          { "name": "Secreto ibérico a la brasa", "description": "Con chimichurri de hierbas y patatas al horno", "price": "26,00 €" },
+          { "name": "Pisto manchego con huevo de corral", "description": "Acompañado de pan de hogaza", "price": "14,50 €", "tag": "vegano" }
+        ]
+      },
+      {
+        "name": "Para terminar",
+        "description": "Postres de autor y de siempre",
+        "dishes": [
+          { "name": "Tarta de queso al horno", "description": "Cremosa, con mermelada de frambuesa casera", "price": "7,00 €", "tag": "signature" },
+          { "name": "Arroz con leche caramelizado", "description": "Receta de la abuela, con canela y limón", "price": "6,50 €" },
+          { "name": "Tabla de quesos ibéricos", "description": "Selección de 4 quesos con membrillo artesano", "price": "14,00 €" }
+        ]
+      }
+    ]
+  },
+  "reservas": {
+    "enabled": true,
+    "eyebrow": "Reservas",
+    "title": "Reserve su mesa",
+    "body": "Confirmamos por WhatsApp en menos de una hora. Para grupos de más de 8 personas, llámenos directamente.",
+    "phone": "+34 914 56 78 90",
+    "whatsapp": "https://wa.me/34914567890",
+    "note": "Grupos de más de 8 personas: llámenos al +34 914 56 78 90",
+    "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=1200&auto=format&fit=crop"
+  },
+  "features": [
+    { "icon": "flame", "label": "Brasas y guisos lentos" },
+    { "icon": "leaf", "label": "Producto de temporada" },
+    { "icon": "wine", "label": "Vinos naturales" },
+    { "icon": "sun", "label": "Terraza interior" }
+  ],
+  "gallery": [
+    "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=900&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1544025162-d76594e8cef1?q=80&w=900&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=900&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=900&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1559339352-11d035aa65de?q=80&w=900&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?q=80&w=900&auto=format&fit=crop"
+  ],
+  "contacto": {
+    "eyebrow": "Encuéntranos",
+    "title": "Te esperamos en Ponzano.",
+    "body": "En el corazón del barrio más gastronómico de Madrid. A dos minutos del metro Alonso Cano."
+  },
+  "seo": {
+    "title": "Sabor & Candela — Cocina de mercado en Madrid",
+    "description": "Restaurante de cocina española de temporada en Ponzano, Madrid. Brasas, guisos y producto fresco cada día. Reservas disponibles."
+  }
+}
